@@ -1,0 +1,54 @@
+.header{
+  background: gray;
+  color: white;
+  text-align: center;
+  height: 90px;
+}
+.menu{
+  background: black;
+  height: 50px;
+}
+.banner{
+  margin-top: 20px;  
+  background: WhiteSmoke;
+  padding: 20px;
+}
+.box-img{
+  background: WhiteSmoke;
+  padding: 15px;
+  margin-top: 20px; 
+}
+.box{
+  margin-top: 20px; 
+}
+.box-img p{
+  
+}
+.noticia{
+  margin-top: 20px; 
+  height: 200px;
+}
+.noticia p{
+ color: DodgerBlue;
+}
+.noticia:hover{
+  background: #eee;
+}
+.side{
+  margin-top: 20px;  
+  background: gray;
+  border-radius: 10px;
+  height: 100px;
+  border: 2px solid black;
+}
+.side:hover{ 
+  background: white;
+}
+.footer{
+  margin-top: 20px; 
+  padding: 30px;
+  background: black;
+  color: white;
+  height: 100px;
+  text-align: center;
+}
